@@ -1,0 +1,25 @@
+{
+    "name": "App Store",
+    "short_name": "market",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ff3e00",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "sizes": "1024x1024",
+            "src": "icon1024.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "512x512",
+            "src": "icon512.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "256x256",
+            "src": "icon256.png",
+            "type": "image/png"
+        }
+    ]
+}
